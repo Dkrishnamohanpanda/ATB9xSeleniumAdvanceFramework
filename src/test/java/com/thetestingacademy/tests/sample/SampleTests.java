@@ -1,4 +1,4 @@
-package com.thetestingacademy.tests;
+package com.thetestingacademy.tests.sample;
 
 import io.qameta.allure.Description;
 import org.testng.Assert;
