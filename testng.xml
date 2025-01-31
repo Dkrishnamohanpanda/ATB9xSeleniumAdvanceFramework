@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/dkris/IdeaProjects/ATB9xSeleniumAdvanceFramework"><classes><class name="com.thetestingacademy.tests.sample.SampleTests"><methods><include name="testSample0"/><include name="testSample1"/></methods></class><class name="com.thetestingacademy.tests.vwoTestCases.TestVwoLogin_01normalScript"><methods><include name="test_negative_vwo_login"/></methods></class></classes></test></suite>

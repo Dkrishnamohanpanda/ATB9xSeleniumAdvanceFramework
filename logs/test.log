@@ -1,0 +1,15 @@
+2025-01-28 17:41:28 INFO  TestVwoLogin_06ImprovedPOM_PropertyReader_DriverManager - Starting the Testcases Page Object Model
+2025-01-28 17:41:42 INFO  TestVwoLogin_06ImprovedPOM_PropertyReader_DriverManager - End of the testLoginNegativeVWO !
+2025-01-28 17:41:45 INFO  TestVwoLogin_06ImprovedPOM_PropertyReader_DriverManager - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-28 17:42:09 INFO  TestVwoLogin_06ImprovedPOM_PropertyReader_DriverManager - End and Asserting testLoginPositiveVWO
+2025-01-30 10:52:47 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases Page Object Model
+2025-01-30 10:52:59 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End of the testLoginNegativeVWO !
+2025-01-30 10:53:03 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-30 10:53:25 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-01-30 10:53:28 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-30 10:53:49 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-01-30 10:53:53 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-30 10:54:14 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-01-30 10:54:34 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-30 10:58:10 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-01-30 11:31:17 INFO  TestVwoLogin_pf - Starting the Testcases Page Factory
