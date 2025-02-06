@@ -25,3 +25,17 @@
 2025-01-31 08:21:50 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
 2025-01-31 08:21:50 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
 2025-01-31 08:21:50 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-01 09:48:38 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases Page Object Model
+2025-02-01 09:48:50 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End of the testLoginNegativeVWO !
+2025-02-01 09:48:54 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-01 09:49:16 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-02-06 08:03:45 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases Page Object Model
+2025-02-06 08:03:57 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End of the testLoginNegativeVWO !
+2025-02-06 08:04:03 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-06 08:04:25 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-02-06 08:05:39 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases Page Object Model
+2025-02-06 08:05:59 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End of the testLoginNegativeVWO !
+2025-02-06 08:06:01 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-06 08:06:31 INFO  TestVwoLogin_07ImprovedPOM_PropertyReader_DriverManager_RetryListner - End and Asserting testLoginPositiveVWO
+2025-02-06 08:41:42 INFO  SampleTests - Starting the Testcases |  Verify that valid creds dashboard page is loaded
+2025-02-06 08:41:42 INFO  SampleTests - Starting the Testcases |  Verify that valid creds dashboard page is loaded
